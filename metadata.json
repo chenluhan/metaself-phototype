@@ -1,0 +1,5 @@
+{
+  "name": "MetaSelf",
+  "description": "A luxury energy management app with deep-sea black aesthetics, fluid animations, and high data density.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
